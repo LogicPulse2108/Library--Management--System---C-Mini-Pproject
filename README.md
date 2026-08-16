@@ -45,10 +45,6 @@ This project demonstrates my understanding of **C programming, structures, array
 4. ▶️ Run the program.
 5. 🖥️ Enter the required book information.
 
-## 📸 Sample Output
-
-Add screenshots of the actual program output here.
-
 ## 📁 Project Structure
 
 ```text id="f4p2aa"
@@ -61,7 +57,3 @@ Add screenshots of the actual program output here.
 ## 🎓 Learning Outcome
 
 Through this project, I improved my understanding of **C programming, structures, arrays, functions, data handling, and problem-solving**.
-
-
-
-🔗 GitHub: `bhomeshsanghavi`
